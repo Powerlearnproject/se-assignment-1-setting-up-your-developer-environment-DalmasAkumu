@@ -52,3 +52,7 @@ Submit your document and GitHub repository link through the designated platform 
 - Adherence to submission guidelines and deadlines.
 
 Note: Feel free to reach out for clarification or assistance with any aspect of the assignment.
+
+Here is the link to my Google docs with all documentations (answers): https://docs.google.com/document/d/1MhuT8VL4amb4oSeO3-cgxS8h83efNEJKD91DUZLdi-A/edit
+
+Here is the link to my repo: https://github.com/DalmasAkumu/Ecommerce_with_Django
